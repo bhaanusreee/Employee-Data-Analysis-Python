@@ -54,6 +54,16 @@ The sample dataset contains 15 employee records with the following attributes:
 2. Open it using Google Colab or Jupyter Notebook.
 3. Run the cells sequentially.
 4. Explore the generated charts and analysis.
+   
+# Screenshots
+<img width="856" height="587" alt="image" src="https://github.com/user-attachments/assets/20377fa3-7686-4041-b100-f9a64ac9f51b" />
+<img width="897" height="590" alt="image" src="https://github.com/user-attachments/assets/68fc7c9b-c1c4-4853-8542-f706801d38d2" />
+<img width="872" height="586" alt="image" src="https://github.com/user-attachments/assets/0c219bb4-0e2b-472c-b78a-5aba08e1ac2e" />
+<img width="900" height="588" alt="image" src="https://github.com/user-attachments/assets/7ca67e16-0ff2-4e15-b831-d09416d77427" />
+
+
+
+
 
 ## Note
 This project uses a synthetic sample employee dataset for educational and demonstration purposes.
